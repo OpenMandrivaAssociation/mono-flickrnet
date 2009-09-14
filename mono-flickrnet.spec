@@ -1,7 +1,7 @@
 Name:           mono-flickrnet
 BuildRequires:  mono-devel unzip
 Version:        2.1.5
-Release:        %mkrel 1
+Release:        %mkrel 2
 License:        LGPLv2+
 URL:		http://www.codeplex.com/FlickrNet
 Source:         FlickrNet-25207.zip
