@@ -1,7 +1,7 @@
 Summary:	Flickr.Net API Library
 Name:		mono-flickrnet
 Version:	2.1.5
-Release:	10
+Release:	11
 Group:		Development/Other
 License:	LGPLv2+
 Url:		http://www.codeplex.com/FlickrNet
