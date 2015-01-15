@@ -6,6 +6,7 @@ Group:		Development/Other
 License:	LGPLv2+
 Url:		http://www.codeplex.com/FlickrNet
 Source0:	FlickrNet-25207.zip
+Source100:	mono-flickrnet.rpmlintrc
 Patch0:		assemblyinfo.patch
 BuildArch:	noarch
 BuildRequires:	unzip
