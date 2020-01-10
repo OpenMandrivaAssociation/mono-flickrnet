@@ -18,7 +18,7 @@ Written entirely in C# it can be accessed from with any .Net language.
 
 %prep
 %setup -n FlickrNet -q
-%apply_patches
+%autopatch -p1
 
 %build
 gmcs -debug -target:library -out:FlickrNet.dll  -r:System.Web.dll -r:System.Drawing.dll *.cs
